@@ -1,0 +1,386 @@
+log4j:WARN No appenders could be found for logger (org.hibernate.cfg.Environment).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+********1.Add Employee****
+********2.Exit****
+********3.Batch Processing****
+********4.Retrieve & display the employee objects whose salary is in between 10000 and 40000****
+********5.display the employee objects whose name is ending with letter “r / R”****
+********6.Display last 10 employees”****
+1
+Enter Employee Name:
+shiva
+Enter Employee Salary:
+30000
+Enter Employee Age:
+25
+Enter Employee Designation:.
+30-10-2015
+Enter Employee DOB:
+proj-engineer
+Enter Employee DOJ:
+30-10-2015
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+********1.Add Employee****
+********2.Exit****
+********3.Batch Processing****
+********4.Retrieve & display the employee objects whose salary is in between 10000 and 40000****
+********5.display the employee objects whose name is ending with letter “r / R”****
+********6.Display last 10 employees”****
+3
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: select ABCLTD_TEST.nextval from dual
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+Hibernate: insert into Employee_ABC_LTD (EmpName, EmpDesignation, EmpDOB, EmpDOJ, EmpAge, EmpSalary, Empcode) values (?, ?, ?, ?, ?, ?, ?)
+********1.Add Employee****
+********2.Exit****
+********3.Batch Processing****
+********4.Retrieve & display the employee objects whose salary is in between 10000 and 40000****
+********5.display the employee objects whose name is ending with letter “r / R”****
+********6.Display last 10 employees”****
+4
+Hibernate: select employeepo0_.Empcode as Empcode0_, employeepo0_.EmpName as EmpName0_, employeepo0_.EmpDesignation as EmpDesig3_0_, employeepo0_.EmpDOB as EmpDOB0_, employeepo0_.EmpDOJ as EmpDOJ0_, employeepo0_.EmpAge as EmpAge0_, employeepo0_.EmpSalary as EmpSalary0_ from Employee_ABC_LTD employeepo0_ where Empsalary>=10000 or Empsalary<=40000
+Total Number Of Records : 107
+Employee Name : Sivatest 0
+---------------------------
+Employee Name : Sivatest 1
+---------------------------
+Employee Name : Sivatest 2
+---------------------------
+Employee Name : Sivatest 3
+---------------------------
+Employee Name : Sivatest 4
+---------------------------
+Employee Name : Sivatest 5
+---------------------------
+Employee Name : Sivatest 6
+---------------------------
+Employee Name : Sivatest 7
+---------------------------
+Employee Name : Sivatest 8
+---------------------------
+Employee Name : Sivatest 9
+---------------------------
+Employee Name : Sivatest 10
+---------------------------
+Employee Name : Sivatest 11
+---------------------------
+Employee Name : Sivatest 12
+---------------------------
+Employee Name : Sivatest 13
+---------------------------
+Employee Name : Sivatest 14
+---------------------------
+Employee Name : Sivatest 15
+---------------------------
+Employee Name : Sivatest 16
+---------------------------
+Employee Name : Sivatest 17
+---------------------------
+Employee Name : Sivatest 18
+---------------------------
+Employee Name : Sivatest 19
+---------------------------
+Employee Name : Sivatest 20
+---------------------------
+Employee Name : Sivatest 21
+---------------------------
+Employee Name : Sivatest 22
+---------------------------
+Employee Name : Sivatest 23
+---------------------------
+Employee Name : Sivatest 24
+---------------------------
+Employee Name : Sivatest 25
+---------------------------
+Employee Name : Sivatest 26
+---------------------------
+Employee Name : Sivatest 27
+---------------------------
+Employee Name : Sivatest 28
+---------------------------
+Employee Name : Sivatest 29
+---------------------------
+Employee Name : Sivatest 30
+---------------------------
+Employee Name : Sivatest 31
+---------------------------
+Employee Name : Sivatest 32
+---------------------------
+Employee Name : Sivatest 33
+---------------------------
+Employee Name : Sivatest 34
+---------------------------
+Employee Name : Sivatest 35
+---------------------------
+Employee Name : Sivatest 36
+---------------------------
+Employee Name : Sivatest 37
+---------------------------
+Employee Name : Sivatest 38
+---------------------------
+Employee Name : Sivatest 39
+---------------------------
+Employee Name : Sivatest 40
+---------------------------
+Employee Name : Sivatest 41
+---------------------------
+Employee Name : Sivatest 42
+---------------------------
+Employee Name : Sivatest 43
+---------------------------
+Employee Name : Sivatest 44
+---------------------------
+Employee Name : Sivatest 45
+---------------------------
+Employee Name : Sivatest 46
+---------------------------
+Employee Name : Sivatest 47
+---------------------------
+Employee Name : Sivatest 48
+---------------------------
+Employee Name : Sivatest 49
+---------------------------
+Employee Name : Shva3
+---------------------------
+Employee Name : alllkr
+---------------------------
+Employee Name : Shiva
+---------------------------
+Employee Name : Shiva2
+---------------------------
+Employee Name : Shiva2
+---------------------------
+Employee Name : shiva
+---------------------------
+Employee Name : Sivatest 0
+---------------------------
+Employee Name : Sivatest 1
+---------------------------
+Employee Name : Sivatest 2
+---------------------------
+Employee Name : Sivatest 3
+---------------------------
+Employee Name : Sivatest 4
+---------------------------
+Employee Name : Sivatest 5
+---------------------------
+Employee Name : Sivatest 6
+---------------------------
+Employee Name : Sivatest 7
+---------------------------
+Employee Name : Sivatest 8
+---------------------------
+Employee Name : Sivatest 9
+---------------------------
+Employee Name : Sivatest 10
+---------------------------
+Employee Name : Sivatest 11
+---------------------------
+Employee Name : Sivatest 12
+---------------------------
+Employee Name : Sivatest 13
+---------------------------
+Employee Name : Sivatest 14
+---------------------------
+Employee Name : Sivatest 15
+---------------------------
+Employee Name : Sivatest 16
+---------------------------
+Employee Name : Sivatest 17
+---------------------------
+Employee Name : Sivatest 18
+---------------------------
+Employee Name : Sivatest 19
+---------------------------
+Employee Name : Sivatest 20
+---------------------------
+Employee Name : Sivatest 21
+---------------------------
+Employee Name : Sivatest 22
+---------------------------
+Employee Name : Sivatest 23
+---------------------------
+Employee Name : Sivatest 24
+---------------------------
+Employee Name : Sivatest 25
+---------------------------
+Employee Name : Sivatest 26
+---------------------------
+Employee Name : Sivatest 27
+---------------------------
+Employee Name : Sivatest 28
+---------------------------
+Employee Name : Sivatest 29
+---------------------------
+Employee Name : Sivatest 30
+---------------------------
+Employee Name : Sivatest 31
+---------------------------
+Employee Name : Sivatest 32
+---------------------------
+Employee Name : Sivatest 33
+---------------------------
+Employee Name : Sivatest 34
+---------------------------
+Employee Name : Sivatest 35
+---------------------------
+Employee Name : Sivatest 36
+---------------------------
+Employee Name : Sivatest 37
+---------------------------
+Employee Name : Sivatest 38
+---------------------------
+Employee Name : Sivatest 39
+---------------------------
+Employee Name : Sivatest 40
+---------------------------
+Employee Name : Sivatest 41
+---------------------------
+Employee Name : Sivatest 42
+---------------------------
+Employee Name : Sivatest 43
+---------------------------
+Employee Name : Sivatest 44
+---------------------------
+Employee Name : Sivatest 45
+---------------------------
+Employee Name : Sivatest 46
+---------------------------
+Employee Name : Sivatest 47
+---------------------------
+Employee Name : Sivatest 48
+---------------------------
+Employee Name : sivanagireddy
+---------------------------
+Employee Name : Sivatest 49
+---------------------------
+********1.Add Employee****
+********2.Exit****
+********3.Batch Processing****
+********4.Retrieve & display the employee objects whose salary is in between 10000 and 40000****
+********5.display the employee objects whose name is ending with letter “r / R”****
+********6.Display last 10 employees”****
+5
+Hibernate: select employeepo0_.Empcode as Empcode0_, employeepo0_.EmpName as EmpName0_, employeepo0_.EmpDesignation as EmpDesig3_0_, employeepo0_.EmpDOB as EmpDOB0_, employeepo0_.EmpDOJ as EmpDOJ0_, employeepo0_.EmpAge as EmpAge0_, employeepo0_.EmpSalary as EmpSalary0_ from Employee_ABC_LTD employeepo0_ where employeepo0_.EmpName like ? or employeepo0_.EmpName like ?
+alllkr
+********1.Add Employee****
+********2.Exit****
+********3.Batch Processing****
+********4.Retrieve & display the employee objects whose salary is in between 10000 and 40000****
+********5.display the employee objects whose name is ending with letter “r / R”****
+********6.Display last 10 employees”****
+6
+Hibernate: select * from ( select employeepo0_.Empcode as Empcode0_, employeepo0_.EmpName as EmpName0_, employeepo0_.EmpDesignation as EmpDesig3_0_, employeepo0_.EmpDOB as EmpDOB0_, employeepo0_.EmpDOJ as EmpDOJ0_, employeepo0_.EmpAge as EmpAge0_, employeepo0_.EmpSalary as EmpSalary0_ from Employee_ABC_LTD employeepo0_ order by EmpCode DESC ) where rownum <= ?
+Sivatest 49
+Sivatest 48
+Sivatest 47
+Sivatest 46
+Sivatest 45
+Sivatest 44
+Sivatest 43
+Sivatest 42
+Sivatest 41
+********1.Add Employee****
+********2.Exit****
+********3.Batch Processing****
+********4.Retrieve & display the employee objects whose salary is in between 10000 and 40000****
+********5.display the employee objects whose name is ending with letter “r / R”****
+********6.Display last 10 employees”****
